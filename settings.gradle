@@ -1,2 +1,3 @@
-include ':app'
+include ':material-colors'
+include ':sample'
 rootProject.name = "Material Colors"
