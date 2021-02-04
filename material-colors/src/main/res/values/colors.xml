@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--RED-->
     <color name="red_50">#FFEBEE</color>
     <color name="red_100">#FFCDD2</color>
     <color name="red_200">#EF9A9A</color>
@@ -10,4 +11,15 @@
     <color name="red_700">#D32F2F</color>
     <color name="red_800">#C62828</color>
     <color name="red_900">#B71C1C</color>
+    <color name="red_A100">#FF8A80</color>
+    <color name="red_A200">#FF5353</color>
+    <color name="red_A400">#FF1744</color>
+    <color name="red_A700">#D50000</color>
+
+    <!--PINK-->
+    <color name="pink_50">#FCE4EC</color>
+    <color name="pink_100">#F8BBD0</color>
+    <color name="pink_200">#F48FB1</color>
+    <color name="pink_300">#F06292</color>
+
 </resources>
