@@ -34,5 +34,21 @@
     <color name="pink_A700">#C51162</color>
 
     <!--PURPLE-->
+    <color name="purple_50">#F3E5F5</color>
+    <color name="purple_100">#E1BEE7</color>
+    <color name="purple_200">#CE93D8</color>
+    <color name="purple_300">#BA68C8</color>
+    <color name="purple_400">#AB47BC</color>
+    <color name="purple_500">#9C27B0</color>
+    <color name="purple_600">#8E24AA</color>
+    <color name="purple_700">#7B1FA2</color>
+    <color name="purple_800">#6A1B9A</color>
+    <color name="purple_900">#4A148C</color>
+    <color name="purple_A100">#EA80FC</color>
+    <color name="purple_A200">#E040FB</color>
+    <color name="purple_A400">#D50019</color>
+    <color name="purple_A700">#AA00FF</color>
+
+    <!--DEEP PURPLE-->
 
 </resources>
