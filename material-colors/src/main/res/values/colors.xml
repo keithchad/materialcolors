@@ -50,5 +50,21 @@
     <color name="purple_A700">#AA00FF</color>
 
     <!--DEEP PURPLE-->
+    <color name="deepPurple_50">#EDE7F6</color>
+    <color name="deepPurple_100">#D1C4E9</color>
+    <color name="deepPurple_200">#B39DDB</color>
+    <color name="deepPurple_300">#9575CD</color>
+    <color name="deepPurple_400">#7E57C2</color>
+    <color name="deepPurple_500">#673AB7</color>
+    <color name="deepPurple_600">#5E35B1</color>
+    <color name="deepPurple_700">#512DA8</color>
+    <color name="deepPurple_800">#4527A0</color>
+    <color name="deepPurple_900">#311B92</color>
+    <color name="deepPurple_A100">#B388FF</color>
+    <color name="deepPurple_A200">#7C4DFF</color>
+    <color name="deepPurple_A400">#651FFF</color>
+    <color name="deepPurple_A700">#6200EA</color>
+
+    <!--INDIGO-->
 
 </resources>
