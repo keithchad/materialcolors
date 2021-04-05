@@ -81,6 +81,20 @@
     <color name="indigo_A400">#3D5AFE</color>
     <color name="indigo_A700">#304FFE</color>
 
-
+    <!--BLUE-->
+    <color name="blue_50">#E8EAF6</color>
+    <color name="blue_100">#C5CAE9</color>
+    <color name="blue_200">#9FA8DA</color>
+    <color name="blue_300">#7986CB</color>
+    <color name="blue_400">#5C6BC0</color>
+    <color name="blue_500">#3F51B5</color>
+    <color name="blue_600">#3949AB</color>
+    <color name="blue_700">#303F9F</color>
+    <color name="blue_800">#283593</color>
+    <color name="blue_900">#1A237E</color>
+    <color name="blue_A100">#8C9EFF</color>
+    <color name="blue_A200">#536DFE</color>
+    <color name="blue_A400">#3D5AFE</color>
+    <color name="blue_A700">#304FFE</color>
 
 </resources>
