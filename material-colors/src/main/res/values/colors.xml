@@ -97,4 +97,20 @@
     <color name="blue_A400">#3D5AFE</color>
     <color name="blue_A700">#304FFE</color>
 
+    <!--LIGHT BLUE-->
+    <color name="lightBlue_50">#E1F5FE</color>
+    <color name="lightBlue_100">#B3E5FC</color>
+    <color name="lightBlue_200">#81D4FA</color>
+    <color name="lightBlue_300">#4FC3F7</color>
+    <color name="lightBlue_400">#29B6F6</color>
+    <color name="lightBlue_500">#03A9F4</color>
+    <color name="lightBlue_600">#039BE5</color>
+    <color name="lightBlue_700">#0288D1</color>
+    <color name="lightBlue_800">#0277BD</color>
+    <color name="lightBlue_900">#01579B</color>
+    <color name="lightBlue_A100">#80D8FF</color>
+    <color name="lightBlue_A200">#40C4FF</color>
+    <color name="lightBlue_A400">#00B0FF</color>
+    <color name="lightBlue_A700">#0091EA</color>
+
 </resources>
