@@ -161,4 +161,20 @@
     <color name="green_A400">#00E676</color>
     <color name="green_A700">#00C853</color>
 
+    <!--LIGHT GREEN-->
+    <color name="lightGreen_50">#F1F8E9</color>
+    <color name="lightGreen_100">#DCEDC8</color>
+    <color name="lightGreen_200">#C5E1A5</color>
+    <color name="lightGreen_300">#AED581</color>
+    <color name="lightGreen_400">#9CCC65</color>
+    <color name="lightGreen_500">#8BC34A</color>
+    <color name="lightGreen_600">#7CB342</color>
+    <color name="lightGreen_700">#689F38</color>
+    <color name="lightGreen_800">#558B2F</color>
+    <color name="lightGreen_900">#33691E</color>
+    <color name="lightGreen_A100">#CCFF90</color>
+    <color name="lightGreen_A200">#B2FF59</color>
+    <color name="lightGreen_A400">#76FF03</color>
+    <color name="lightGreen_A700">#64DD17</color>
+
 </resources>
