@@ -241,6 +241,22 @@
     <color name="orange_A400">#FF9100</color>
     <color name="orange_A700">#FF6D00</color>
 
+    <!--DEEP ORANGE-->
+    <color name="deepOrange_50">#FBE9E7</color>
+    <color name="deepOrange_100">#FFCCBC</color>
+    <color name="deepOrange_200">#FFAB91</color>
+    <color name="deepOrange_300">#FF8A65</color>
+    <color name="deepOrange_400">#FF7043</color>
+    <color name="deepOrange_500">#FF5722</color>
+    <color name="deepOrange_600">#F4511E</color>
+    <color name="deepOrange_700">#E64A19</color>
+    <color name="deepOrange_800">#D84315</color>
+    <color name="deepOrange_900">#BF360C</color>
+    <color name="deepOrange_A100">#FF9E80</color>
+    <color name="deepOrange_A200">#FF6E40</color>
+    <color name="deepOrange_A400">#FF3D00</color>
+    <color name="deepOrange_A700">#DD2C00</color>
+
 
 
 </resources>
